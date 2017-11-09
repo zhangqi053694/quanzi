@@ -1,6 +1,6 @@
-yydb
+#quanzi
 
-    yydb vue+webpack+vue-router+axios
+    quanzi vue+webpack+vue-router+axios
 
 Build Setup
 
